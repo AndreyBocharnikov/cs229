@@ -11,6 +11,6 @@
    a, b. Prove that probability... [pdf](problem%20set%201/ps1.pdf).  
    c, d, e. Train logistic regression on incomplete data. [code](problem%20set%201/src/p02cde_posonly.py)
 3. Poisson Regression  
-  a, b, c. Poisson distribution in exponential family [pdf](problem%20set%201/ps1.pdf).  
+  a, b, c. Poisson distribution is in the exponential family [pdf](problem%20set%201/ps1.pdf).  
   d. Poisson regression [code](problem%20set%201/src/p03d_poisson.py).
 4. 
